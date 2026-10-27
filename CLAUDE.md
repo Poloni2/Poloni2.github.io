@@ -33,7 +33,7 @@ Objetivo: aprender SEO y, cuando haya tráfico, monetizar con AdSense. Presupues
 ## Reglas de contenido
 - Formato de guía: introducción personal, tabla comparativa rápida, producto por producto (lo mejor, lo peor, "Lo elegiría si…"), guía de compra, 3 preguntas frecuentes, conclusión con un ganador claro. Unas 1.500 palabras.
 - Palabra clave principal en el título, la primera frase y un subtítulo (h2). No más de 4-5 veces en total.
-- **El texto lo escribe Marco.** Claude prepara el guion, comprueba datos y corrige, pero no escribe el artículo entero: la experiencia propia es lo que diferencia la web.
+- **Claude escribe el artículo completo** (decidido por Marco el 27 oct 2026). La experiencia propia sale solo de los datos de "Sobre mí" o de lo que Marco cuente; Marco revisa antes de publicar.
 - Nunca decir que Marco ha probado algo que no ha probado. Usar "he revisado", "lo elegiría porque…".
 - Precios orientativos y con fecha. Comprobar que los modelos siguen a la venta y las cifras (batería, etc.) en la web del fabricante.
 - Temas: 3 de tecnología para estudiantes y 1 de deporte con enfoque tecnológico al mes. Nada fuera de tema.
