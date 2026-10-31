@@ -85,3 +85,9 @@ footer.site a { color: var(--muted); margin-right: 14px; }
   h2 { font-size: 22px; }
   nav a { margin-left: 12px; font-size: 15px; }
 }
+
+@media print {
+  h1, h2, h3 { break-after: avoid; page-break-after: avoid; }
+  h2 + *, h3 + * { break-before: avoid; page-break-before: avoid; }
+  p, li, tr, .quick, .verdict { break-inside: avoid; page-break-inside: avoid; }
+}
